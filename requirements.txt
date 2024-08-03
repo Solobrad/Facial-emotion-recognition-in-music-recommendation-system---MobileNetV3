@@ -1,0 +1,4 @@
+## Dependencies
+
+- **Keras**: 3.3.3
+- **TensorFlow**: 2.16.2

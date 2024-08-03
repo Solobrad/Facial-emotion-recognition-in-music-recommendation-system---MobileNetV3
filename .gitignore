@@ -1,0 +1,10 @@
+# Ignore folders
+/Datasets/
+/Test image/
+/Test Image Data/
+/Train Image Data/
+/myenv/
+/output files/
+
+# Ignore files
+*test.ipynb
