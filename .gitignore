@@ -1,5 +1,5 @@
 # Ignore folders
-/Datasets/
+/Songs folder/
 /Test image/
 /Test Image Data/
 /Train Image Data/
@@ -8,3 +8,4 @@
 
 # Ignore files
 *test.ipynb
+*Classified.txt
