@@ -9,3 +9,5 @@
 # Ignore files
 *test.ipynb
 *Classified.txt
+*.cache-user-library-read
+*.cache
