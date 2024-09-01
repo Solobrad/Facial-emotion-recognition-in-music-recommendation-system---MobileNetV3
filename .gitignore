@@ -11,3 +11,4 @@
 *Classified.txt
 *.cache-user-library-read
 *.cache
+.env.local
