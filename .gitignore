@@ -5,6 +5,7 @@
 /Train Image Data/
 /myenv/
 /output files/
+/wandb/
 
 # Ignore files
 *test.ipynb
