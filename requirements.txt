@@ -24,3 +24,4 @@ pyyaml==6.0.2
 tornado==6.4.1
 joblib==1.4.2
 rich==13.7.1
+transformers==4.47.0
