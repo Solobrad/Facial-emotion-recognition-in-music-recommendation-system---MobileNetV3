@@ -1,4 +1,5 @@
 ## Dependencies
+# Requirements for Python 3.10.4
 
 keras==3.3.3
 tensorflow==2.16.2
@@ -24,3 +25,4 @@ pyyaml==6.0.2
 tornado==6.4.1
 joblib==1.4.2
 rich==13.7.1
+transformers==4.47.0
