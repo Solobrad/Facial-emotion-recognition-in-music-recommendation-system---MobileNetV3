@@ -6,6 +6,7 @@
 /myenv/
 /output files/
 /wandb/
+output files/fer2013_processed.h5
 
 # Ignore files
 *test.ipynb
