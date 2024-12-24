@@ -6,7 +6,8 @@
 /myenv/
 /output files/
 /wandb/
-
+/__pycache__/
+/.ipynb_checkpoints/
 
 # Ignore files
 *test.ipynb
