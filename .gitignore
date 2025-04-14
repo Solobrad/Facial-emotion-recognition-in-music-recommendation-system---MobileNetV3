@@ -1,7 +1,7 @@
 # Ignore folders
 
 /myenv/
-/wandb/
+Code/Training/wandb/
 /__pycache__/
 /.ipynb_checkpoints/
 /Data/
