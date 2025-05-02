@@ -1,13 +1,10 @@
 # Ignore folders
-/Songs folder/
-/Test image/
-/Test Image Data/
-/Train Image Data/
+
 /myenv/
-/output files/
-/wandb/
-
-
+Code/Training/wandb/
+/__pycache__/
+/.ipynb_checkpoints/
+/Data/
 # Ignore files
 *test.ipynb
 *Classified.txt
